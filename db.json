@@ -1,7 +1,6 @@
 {
 	"createURL": {
 	  "recordDefinition": {
-		"contactID": "{{Contact.Id}}",
 		"emailAddress": "{{Contact.Field(C_EmailAddress)}}",
 		"firstName": "{{Contact.Field(C_FirstName)}}",
 		"lastName": "{{Contact.Field(C_LastName)}}"
